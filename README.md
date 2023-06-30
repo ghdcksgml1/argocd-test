@@ -1,5 +1,12 @@
 # argocd-test
 
+## 아키텍처
+
+<img width="720" alt="스크린샷 2023-06-30 오후 8 12 05" src="https://github.com/ghdcksgml1/argocd-test/assets/79779676/eb05f34c-ba3e-491d-bc84-0f1fe2d73ea9">
+
+
+## 결과화면
+
 <img width="2040" alt="스크린샷 2023-06-30 오후 8 00 30" src="https://github.com/ghdcksgml1/argocd-test/assets/79779676/a6cd9db3-a9c6-4124-aafd-70b8e3f634e2">
 
 ### Replicas 3으로 증가
