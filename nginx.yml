@@ -10,8 +10,6 @@ spec:
   selector:
     run: mynginx
   type: LoadBalancer
-  externalIPs:
-    - 35.223.243.23
 ---
 apiVersion: apps/v1
 kind: Deployment
